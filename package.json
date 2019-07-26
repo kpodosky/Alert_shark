@@ -1,0 +1,19 @@
+{
+  "name": "year-progress-twitter-bot",
+  "version": "0.0.0",
+  "description": "year progress twitter bot that post year Progress in percents in a tweet",
+  "main": "index.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "Victor Nizeyimana <mrclarify@naver.com> (https://twitter.com/clarify_mr)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MrDatastorage/Year-Progress-Twitter-Bot.git"
+  },
+  "dependencies": {
+    "cron": "^1.5.1",
+    "twit": "^2.2.11"
+  }
+}
