@@ -9,3 +9,5 @@ Place the format of the tweet text here and don't forget to add the "%.2f" as a 
 E.g. Progress (%.2f)
 '''
 
+post_frequency_in_secs = 3600 #post every 3600 seconds
+
