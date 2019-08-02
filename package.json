@@ -6,11 +6,11 @@
   "scripts": {
     "start": "node bot.js"
   },
-  "author": "Victor Nizeyimana <mrclarify@naver.com> (https://twitter.com/clarify_mr)",
+  "author": "Kilanko Paul <kilankopaul@gmail.com> (https://twitter.com/kilankopaul)",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/MrDatastorage/Year-Progress-Twitter-Bot.git"
+    "url": "https://github.com/kpodosky/Alert_shark.git"
   },
   "dependencies": {
     "cron": "^1.5.1",
