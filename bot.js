@@ -2,8 +2,8 @@
  * Year Progress Twitter Bot in NodeJS
  * This Twitter Bot post the year progress in percents in a tweet.
  *
- * Author Victor Nizeyimanaa
- * Date 05-12-2018
+ * Author Kilanko Paul
+ * Date 31-07-2019
  * License: MIT
  */
 
