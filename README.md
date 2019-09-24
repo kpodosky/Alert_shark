@@ -1,4 +1,4 @@
-# Year Progress Twitter Bot in NodeJS
+# Year Progress Twitter Bot in Python
 
 Hi, I'm [@kilanko](https://twitter.com/paulkilanko) building a twitter bot in python to achieve this (https://twitter.com/Alert_Shark)
 
@@ -35,6 +35,5 @@ module.exports = {
 
 In between those quotes, paste the appropriate info from the Details page. This is essentially the login information for the app.
 
-Now type the following in the command line in your project directory:
 
-`node bot.js`
+
