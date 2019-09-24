@@ -1,19 +1,12 @@
 # Year Progress Twitter Bot in NodeJS
 
-Hi, I'm [@kilanko](https://twitter.com/paulkilanko) building a twitter bot in Node.Js folowing the example of (https://twitter.com/YProgressNodeJS) but trying to achieve this [@year_progress](https://twitter.com/year_progress) twitter bot created by Filip Hráček.
+Hi, I'm [@kilanko](https://twitter.com/paulkilanko) building a twitter bot in python to achieve this (https://twitter.com/Alert_Shark)
 
 # What does this twitter bot?
-This bot post the year Progress in percents in a tweet.
+This bot post bitcoin price Progress in percents in a tweet.
 
 ## Installation
 
-If you don't already have have them, please install [Node.js](http://nodejs.org/). This will install two programs: `node`, which runs JavaScript from the command line, and `npm`, which helps you install software that Node.js can run.
-
-Make an empty project directory somewhere convenient for you, [download the archive zip file](https://github.com/MrDatastorage/Year-Progress-Twitter-Bot/archive/master.zip), and unzip the contents to your project directory. Go to your project directory in the command line. There should be four files there: `.gitignore`, `README.md`, `bot.js` and `config.js`. In that directory type:
-
-`npm install`
-
-This installs some code to the `npm_modules` subdirectory, which you don't need to worry about. (It's Twit, the library that lets us talk to Twitter.)
 
 ## Connecting to Twitter
 
