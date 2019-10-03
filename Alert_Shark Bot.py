@@ -1,4 +1,3 @@
-print
 import requests
 import json
 url = "https://api.coinbase.com/v2/prices/spot?currency=USD"
@@ -7,9 +6,18 @@ data = response.text
 parsed = json.loads(data)
 amount_data = parsed["data"]["amount"]
 Data_pro = float(amount_data)
-bit_2017 = 20000
+bit_2017 = 19783.21
 crease = 100
 num = Data_pro/bit_2017*crease
+
+"""this would print out the value of the current bitcion price"""
+
+if num <= 50 :
+  print ("Bitcoin","📈")
+elif num >= 50 :
+    print ("Bitcoin","📉" )
+    
+
 if num <= 0 :
     print ("░░░░░░░░░░░░░░░ 0%")
 elif num <= 1 :
@@ -210,9 +218,8 @@ elif num <= 100 :
     print ("▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100%")
 else:
     print ("xxx broke my counter")
-print("Bitcoin price:","$"+ str(amount_data))
 
-if float(Data_pro) > 10000:
-       print ("🔺")
-elif float(Data_pro) < 10000:
-  print ("🔻")
+print("price:","$"+ str(amount_data))
+if float(amount_data) == 10000 :
+     print ("🚨🚨🚨 ", "#bitcoin is official below" )
+""" the check if bitcoin is below a particular price"""
