@@ -1,12 +1,12 @@
 # Year Progress Twitter Bot in Python
 
-Hi, I'm [@kilanko](https://twitter.com/paulkilanko) building a twitter bot in python to achieve this (https://twitter.com/Alert_Shark)
+Hi, I'm [@kilanko](https://twitter.com/paulkilanko) building a twitter bot in python (https://twitter.com/Alert_Shark)
 
 # What does this twitter bot?
 This bot post bitcoin price Progress in percents in a tweet.
 
 ## Installation
-
+still working out the kinks of this process
 
 ## Connecting to Twitter
 
